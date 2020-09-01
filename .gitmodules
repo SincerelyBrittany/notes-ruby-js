@@ -4,3 +4,6 @@
 [submodule "notes-ruby-js-backend"]
 	path = notes-ruby-js-backend
 	url = https://github.com/SincerelyBrittany/notes-ruby-js-backend
+[submodule "backend-api"]
+	path = backend-api
+	url = https://github.com/SincerelyBrittany/notes-ruby-js-backend
